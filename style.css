@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(99, 126, 82) 
+}
+h2 {
+    color:rgb(148, 201, 143)
+}
+.green{
+    color:rgba(221, 14, 14, 0.747);
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 700;
+}
+
+#id {
+    color:rgb(243, 156, 26);
+    font-size: 25px;
+}
